@@ -1,0 +1,3 @@
+OpenGeode-core >= 8.1.0, == 8.*
+Geode-Common >= 12.11.8, == 12.*
+Geode-Conversion >= 2.9.3, == 2.*
