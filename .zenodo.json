@@ -1,0 +1,6 @@
+{
+    "description": "Background meshing for Geode-solutions OpenGeode modules",
+    "title": "Geode-BackgroundMesh",
+    "license": "proprietary",
+    "creators": [{"name": "Geode-solutions"}]
+}
